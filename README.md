@@ -36,16 +36,16 @@ No seu terminal de comando, execute:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/juhachmann/exam_corrector
+$ git clone https://github.com/juhachmann/corretor_gabaritos
 
 # Entre na pasta local do repositório
-$ cd exam_corrector
+$ cd corretor_gabaritos
 
 # Compile o arquivo da aplicação
-$ g++ corrector.cpp -o corrector.exe
+$ g++ corretor.cpp -o corretor.exe
 
 # Execute
-$ ./corrector.exe
+$ ./corretor.exe
 ```
 
 Ou abra e execute com sua IDE de C++ favorita
