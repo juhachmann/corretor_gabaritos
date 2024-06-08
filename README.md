@@ -1,6 +1,4 @@
-# Corretor de Gabaritos
-
-CLI bilíngue para correção automatizada de gabaritos
+# CLI bilíngue para correção automatizada de gabaritos
 
 Idiomas disponíveis: Português (Brasil) e Guineense
 
@@ -9,7 +7,7 @@ Idiomas disponíveis: Português (Brasil) e Guineense
 
 ### 💻 Pré-requisitos
 
-- Você precisa ter um compilador C++ ou uma IDE com suporte a esta linguagem instalados na sua máquina
+- Compilador C++ ou IDE com suporte a esta linguagem
 - Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
 
 ### Para instalar, siga estas etapas:
@@ -20,15 +18,15 @@ Idiomas disponíveis: Português (Brasil) e Guineense
 Linux com g++:
 
 ```
-g++ corretor_gabarito.cpp -o corretor_gabarito.exe
-./corretor_gabarito.exe
+g++ corretor.cpp -o corretor.exe
+./corretor.exe
 ```
 
 Windows com g++:
 
 ```
-g++ corretor_gabarito.cpp -o corretor_gabarito.exe
-corretor_gabarito.exe
+g++ corretor.cpp -o corretor.exe
+corretor.exe
 ```
 
 ## ☕ Como usar
