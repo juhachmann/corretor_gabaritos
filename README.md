@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Corretor de Gabaritos</h1>
-<h4 align="center">Um corretor --SEMI-- automático para suas provas</h4>
+<h4 align="center">Um corretor SEMI automático para suas provas</h4>
 
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a> •
@@ -14,10 +14,10 @@
 
 
 
-## Funcionalidades
+## ☑️ Funcionalidades
 
 * Corretor SEMI automático de exames de múltipla escolha
-  - Você **SÓ** precisa digitar todas as respostas a serem corrigidas
+  - Você **SÓ** precisa digitar todas as respostas a serem corrigidas 🤡
 * Classificação e relatórios globais
   - Veja as notas mais altas e mais baixas, percentuais de acerto por questão e classificação geral
 * Clássica Interface de terminal de comando
@@ -26,7 +26,7 @@
 * Bilíngue
   - Interface em Português (PT-BR) e Guineense(GW)
 
-## Instalação
+## 🚀 Instalação
 
 Para instalar esta aplicação, você só precisa de um compilador para C++ instalado em sua máquina. Recomendamos: 
 - [GCC/g++](https://gcc.gnu.org/install/)
