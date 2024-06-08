@@ -3,17 +3,13 @@
 Idiomas disponíveis: Português (Brasil) e Guineense
 
 
-## 🚀 Instalação
+## 🚀 Instalando
 
-### 💻 Pré-requisitos
+Requisitos:
+- Compilador C++ ou IDE com suporte a esta linguagem. Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
 
-- Compilador C++ ou IDE com suporte a esta linguagem
-- Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
-
-### Para instalar, siga estas etapas:
-
-- Salve o arquivo `corretor.cpp` em sua máquina
-- Compile o arquivo e execute o programa gerado
+Instalação:
+- Salve o arquivo `corretor.cpp` em sua máquina, compile o arquivo e execute o programa gerado
 
 Linux com g++:
 
@@ -48,13 +44,13 @@ corretor.exe
 4. Para corrigir outro gabarito, reinicie a execução do programa. 
 
 
-## 📫 Disclaimer
-
-Este código não segue nenhuma boa prática, não tem nenhuma preocupação com manutenção ou reusabilidade, não faz ideia do que é gerenciamento de memória e tem apenas uma leve noção de que iterar muitas vezes por uma lista longa pode ser uma má ideia. 
+## ‼️ Disclaimer
 
 Este pequeno projeto foi desenvolvido como trabalho final na disciplina de Lógica de Programação (2022.2) - Curso Técnico em Desenvolvimento de Sistemas/IFSC. 
 
-O desafio era aplicar os conceitos básicos de programação e produzir um código de arquivo único, utilizando apenas as bibliotecas mais fundamentais da linguagem, tipos primitivos e de forma procedural. Foi uma atividade para exercitar lógica básica de programação, além de tópicos como vetores, ponteiros, sobrecarga de função e Bubble Sort. 
+Este código não segue nenhuma boa prática, não faz ideia do que é gerenciamento de memória e tem apenas uma leve noção de que iterar muitas vezes por uma lista longa pode ser uma má ideia. Não nos responsabilizamos por danos em sua máquina. 🧯
+
+O desafio foi apenas aplicar os conceitos básicos de programação e produzir um código de arquivo único, utilizando as bibliotecas mais fundamentais da linguagem, tipos primitivos e de estilo procedural. Foi uma atividade para exercitar lógica básica de programação, além de tópicos como vetores, ponteiros, sobrecarga de função e Bubble Sort. 
 
 
 ## Equipe: 
