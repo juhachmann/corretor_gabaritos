@@ -1,24 +1,66 @@
-# Correção de Gabaritos em C/C++
+# Corretor de Gabaritos
 
-Este pequeno projeto foi desenvolvido como trabalho final na disciplina de Lógica de Programação (2022.2) - Curso Técnico em Desenvolvimento de Sistemas/IFSC
+CLI bilíngue para correção automatizada de gabaritos
 
-A ideia da atividade era desenvolver o clássico sistema de correção de gabaritos. Nele, você pode inserir o gabarito de uma prova, as respostas dos candidatos e gerar a pontuação final, em uma bela interface de linha de comando.  
-
-Como resultado, produzimos este arquivo único de 700 linhas, utilizando apenas as bibliotecas mais essenciais de C++, tipos primitivos, strings e programação procedural. 
-
-Como desafio da época, inserimos dois usos de uma implementação do algoritmo de ordenação Bubble Sort, com critérios de ordenação diferentes, para gerar a classificação final dos candidatos. 
-
-Inserimos ainda a opção de gerar dados randômicos para facilitar os testes com o programa. 
-
-E, como toque final especial, aproveitando que a nossa equipe de desenvolvimento era internacional, toda a interface do usuário é bilíngue, implementada com gigantescas listas de strings e UM ponteiro (um conceito muito avançado na época).
-
-Então, se você nunca antes havia testado um corretor de gabaritos com I/O em Português e Guineense rodando no seu terminal de comando, esta é a sua chance. 
+Idiomas disponíveis: Português (Brasil) e Guineense
 
 
-Disclaimer: este código não segue nenhuma boa prática, não tem nenhuma preocupação com manutenção ou reusabilidade, não faz ideia do que é gerenciamento de memória e tem apenas uma leve noção de que iterar muitas vezes por uma lista longa pode ser uma má ideia. Mesmo assim, trouxe muita diversão na época e ainda hoje (por motivos diferentes, é claro).
+## 🚀 Instalação
 
-Disclaimer 2: não nos responsabilizamos por danos causados na sua máquina. 
+### 💻 Pré-requisitos
+
+- Você precisa ter um compilador C++ ou uma IDE com suporte a esta linguagem instalados na sua máquina
+- Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
+
+### Para instalar, siga estas etapas:
+
+- Salve o arquivo `corretor.cpp` em sua máquina
+- Compile o arquivo e execute o programa gerado
+
+Linux com g++:
+
+```
+g++ corretor_gabarito.cpp -o corretor_gabarito.exe
+./corretor_gabarito.exe
+```
+
+Windows com g++:
+
+```
+g++ corretor_gabarito.cpp -o corretor_gabarito.exe
+corretor_gabarito.exe
+```
+
+## ☕ Como usar
+
+1. Ao iniciar o programa, você deve escolher entre as duas linguagens disponíveis: Português ou Guineense
+
+2. Você deve escolher entre o modo manual ou randômico.
+
+  - No **modo manual** você irá manualmente inserir o gabarito e as respostas de cada candidato.
+
+  - No **modo randômico** são gerados automaticamente dados mock para teste.
+
+![Menu Inicial](https://github.com/juhachmann/correcao_gabaritos/blob/main/menu_inicial.png) 
+
+3. Ao encerrar a inserção dos dados, o programa irá corrigir os gabaritos dos candidatos e gerará alguns relatórios e o ranking de classificação. Para gabaritos com até 10 questões, o ranking de classificação é exibido em formato de tabela.
+
+ ![Ranking](https://github.com/juhachmann/correcao_gabaritos/blob/main/relatorio.png) 
+
+4. Para corrigir outro gabarito, reinicie a execução do programa. 
 
 
-Equipe: Charles Parpineli, Juliana Hachmann, Mamadú Saliu
-Exercitando os tópicos: vetores, ponteiros, sobrecarga de função, Bubble Sort e lógica de programação
+## 📫 Disclaimer
+
+Este código não segue nenhuma boa prática, não tem nenhuma preocupação com manutenção ou reusabilidade, não faz ideia do que é gerenciamento de memória e tem apenas uma leve noção de que iterar muitas vezes por uma lista longa pode ser uma má ideia. 
+
+Este pequeno projeto foi desenvolvido como trabalho final na disciplina de Lógica de Programação (2022.2) - Curso Técnico em Desenvolvimento de Sistemas/IFSC. 
+
+O desafio era aplicar os conceitos básicos de programação e produzir um código de arquivo único, utilizando apenas as bibliotecas mais fundamentais da linguagem, tipos primitivos e de forma procedural. Foi uma atividade para exercitar lógica básica de programação, além de tópicos como vetores, ponteiros, sobrecarga de função e Bubble Sort. 
+
+
+## Equipe: 
+Charles Parpineli<br>
+Juliana Hachmann<br>
+Mamadú Saliu<br>
+
