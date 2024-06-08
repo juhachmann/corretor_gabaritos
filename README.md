@@ -5,20 +5,18 @@ Idiomas disponíveis: Português (Brasil) e Guineense
 
 ## 🚀 Instalando
 
-Requisitos:
-- Compilador C++ ou IDE com suporte a esta linguagem. Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
+- Requisito: compilador C++ ou IDE com suporte a esta linguagem. Recomendamos o compilador g++ do GCC (GNU Compiler Collection)
+- Salve apenas o arquivo `corretor.cpp` em sua máquina
+- A seguir, compile o arquivo e execute o programa gerado
 
-Instalação:
-- Salve o arquivo `corretor.cpp` em sua máquina, compile o arquivo e execute o programa gerado
-
-Linux com g++:
+Compilação e execução em Linux com g++:
 
 ```
 g++ corretor.cpp -o corretor.exe
 ./corretor.exe
 ```
 
-Windows com g++:
+Compilação e execução em Windows com g++:
 
 ```
 g++ corretor.cpp -o corretor.exe
@@ -29,19 +27,22 @@ corretor.exe
 
 1. Ao iniciar o programa, você deve escolher entre as duas linguagens disponíveis: Português ou Guineense
 
-2. Você deve escolher entre o modo manual ou randômico.
+2. A seguir, você deve escolher entre o modo manual ou randômico.
 
-  - No **modo manual** você irá manualmente inserir o gabarito e as respostas de cada candidato.
+  - No **Modo Manual** você irá manualmente inserir o gabarito e as respostas de cada candidato.
 
-  - No **modo randômico** são gerados automaticamente dados mock para teste.
+  - No **Modo Randômico** são gerados automaticamente dados mock para teste.
 
 ![Menu Inicial](https://github.com/juhachmann/correcao_gabaritos/blob/main/menu_inicial.png) 
 
-3. Ao encerrar a inserção dos dados, o programa irá corrigir os gabaritos dos candidatos e gerará alguns relatórios e o ranking de classificação. Para gabaritos com até 10 questões, o ranking de classificação é exibido em formato de tabela.
+3. Após inserir os dados solicitados, o programa irá corrigir os gabaritos dos candidatos e gerará alguns relatórios e o ranking de classificação.
+  
+Para gabaritos com até 10 questões, o ranking de classificação é exibido em formato de tabela.
 
  ![Ranking](https://github.com/juhachmann/correcao_gabaritos/blob/main/relatorio.png) 
 
-4. Para corrigir outro gabarito, reinicie a execução do programa. 
+
+Para corrigir outro gabarito, reinicie a execução do programa. 
 
 
 ## ‼️ Disclaimer
