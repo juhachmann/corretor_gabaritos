@@ -4,12 +4,11 @@
 <h4 align="center">Um corretor SEMI automático para suas provas</h4>
 
 <p align="center">
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#instalação">Instalação</a> •
-  <a href="#uso">Uso</a> •
-  <a href="#disclaimer">Disclaimer</a> •
-  <a href="#contexto">Contexto</a> •
-  <a href="#equipe">Equipe</a> •
+  <a href="#Funcionalidades">Funcionalidades</a> •
+  <a href="#Instalação">Instalação</a> •
+  <a href="#Uso">Uso</a> •
+  <a href="#Disclaimer">Disclaimer</a> •
+  <a href="#Equipe">Equipe</a> •
 </p>
 
 
