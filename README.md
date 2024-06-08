@@ -13,21 +13,21 @@
 
 
 
-## Funcionalidades ☑️ 
+## Funcionalidades 
 
-* Corretor SEMI automático de exames de múltipla escolha
+☑️ Corretor SEMI automático de exames de múltipla escolha
   - Você **SÓ** precisa digitar todas as respostas a serem corrigidas 🤡
-* Classificação e relatórios globais
+☑️ Classificação e relatórios globais
   - Veja as notas mais altas e mais baixas, percentuais de acerto por questão e classificação geral
-* Clássica Interface de terminal de comando
-* Sem instalação de dependências
+☑️ Clássica Interface de terminal de comando
+☑️ Sem instalação de dependências
   - Toda o código está em um único arquivo gigantesco
-* Bilíngue
+☑️ Bilíngue
   - Interface em Português (PT-BR) e Guineense(GW)
 
-## Instalação 🚀  
+## Instalação 
 
-Para instalar esta aplicação, você só precisa de um compilador para C++ instalado em sua máquina. Recomendamos: 
+🚀 Para instalar esta aplicação, você só precisa de um compilador para C++ instalado em sua máquina. Recomendamos: 
 - [GCC/g++](https://gcc.gnu.org/install/)
 
 Agora você pode fazer o download, compilar e executar a aplicação. 
@@ -51,10 +51,10 @@ $ ./corretor.exe
 Ou abra e execute com sua IDE de C++ favorita
 
 
-## Uso ☕
+## Uso 
 
 - **Modo Manual**: você irá inserir todos os dados necessários para as correções, isto é, o gabarito e as respostas de cada estudante/candidato
-- 
+  
 - **Modo Randômico**: dados "falsos" são gerados para casos de teste 
 
 <div align="center">
@@ -62,7 +62,7 @@ Ou abra e execute com sua IDE de C++ favorita
 </div>
 
 
-## Disclaimer ‼️
+## Disclaimer 
 
 Este pequeno projeto foi desenvolvido como trabalho final na disciplina de Lógica de Programação (2022.2) - Curso Técnico em Desenvolvimento de Sistemas/IFSC. 
 
