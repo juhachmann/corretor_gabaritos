@@ -17,11 +17,15 @@
 
 ☑️ Corretor SEMI automático de exames de múltipla escolha
   - Você **SÓ** precisa digitar todas as respostas a serem corrigidas 🤡
+
 ☑️ Classificação e relatórios globais
   - Veja as notas mais altas e mais baixas, percentuais de acerto por questão e classificação geral
+
 ☑️ Clássica Interface de terminal de comando
+
 ☑️ Sem instalação de dependências
   - Toda o código está em um único arquivo gigantesco
+
 ☑️ Bilíngue
   - Interface em Português (PT-BR) e Guineense(GW)
 
